@@ -168,10 +168,3 @@ The console application demonstrates:
 - Automatic eviction when capacity is reached
 - LRU behavior with re-access patterns
 
-## License
-
-This project is for educational purposes as part of a practical assignment.
-
-## Author
-
-[Your Name]
